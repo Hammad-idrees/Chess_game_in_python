@@ -1,0 +1,7 @@
+{
+  "screen_width": 640,
+  "screen_height": 640,
+  "square_size": 80,
+  "fps": 30,
+  "ai_depth": 3
+}
